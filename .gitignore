@@ -1,0 +1,10 @@
+DerivedData/
+build/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+.DS_Store
+.swiftpm/
+.packages/
+Pods/
+Carthage/Build/
